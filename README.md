@@ -313,3 +313,9 @@ Destroy complete! Resources: 4 destroyed.
 ```shell
 vagrant destroy
 ```
+
+
+## Reference Documentation
+
+- [Vault provider for Terraform - Approle backend](https://registry.terraform.io/providers/hashicorp/vault/latest/docs/resources/approle_auth_backend_login)
+- [Approle authentication method in Vault](https://developer.hashicorp.com/vault/docs/auth/approle)
